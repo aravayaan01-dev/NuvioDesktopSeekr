@@ -12,7 +12,7 @@
 
 </div>
 
-## ⚠️ Alpha Software - Slow Development - Testers Only
+## A unoffical fork of NuvioDesktop with extra features
 
 Nuvio Desktop is currently in alpha and is intended only for testers. It is under development and is not suitable for daily use.
 
