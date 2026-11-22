@@ -7,18 +7,13 @@
     <br />
     Bring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.
   </p>
-
-  [Website](https://nuvio.tv) · [GitHub releases](https://github.com/NuvioMedia/NuvioDesktop/releases/latest) · [Support Nuvio](https://nuvio.tv/support)
-
-</div>
-
 ## A unoffical fork of NuvioDesktop with extra features
 
-Nuvio Desktop is currently in alpha and is intended only for testers. It is under development and is not suitable for daily use.
+Nuvio Seek for Desktop  is currently in alpha and is intended only for testers. It is under development and is not suitable for daily use.
 
 Expect breaking changes with every update. Features, settings, stored data, and compatibility may change or stop working without notice. Do not rely on this build as your primary media app, and report any issues you encounter during testing.
 
-## Get Nuvio Desktop
+## Get Nuvio Seek for Desktop
 
 Download the latest build from [GitHub Releases](https://github.com/NuvioMedia/NuvioDesktop/releases/latest).
 
